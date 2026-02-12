@@ -7,7 +7,7 @@
   <!-- Main Folder (Filing Cabinet) -->
   <rect x="50" y="70" width="200" height="350" fill="#8B7355" stroke="#000" stroke-width="3" rx="5"/>
   <rect x="60" y="80" width="180" height="50" fill="#A0826D" stroke="#000" stroke-width="2"/>
-  <rect x="60" y="140" width="180" height="50" fill="#A0826D" stroke="#000" stroke-2"/>
+  <rect x="60" y="140" width="180" height="50" fill="#A0826D" stroke="#000" stroke-width="2"/>
   <rect x="60" y="200" width="180" height="50" fill="#A0826D" stroke="#000" stroke-width="2"/>
   <rect x="60" y="260" width="180" height="50" fill="#A0826D" stroke="#000" stroke-width="2"/>
   <text x="150" y="430" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#fff" text-anchor="middle">Folders</text>
