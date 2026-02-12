@@ -8,7 +8,7 @@
   <rect x="50" y="70" width="600" height="280" fill="#300A24" stroke="#000" stroke-width="3" rx="8"/>
 
   <!-- Terminal Top Bar -->
-  <rect x="50" y="70" width="600" height="30" fill="#2C001E" rx="8 8 0 0"/>
+  <rect x="50" y="70" width="600" height="30" fill="#2C001E" rx="8"/>
   <circle cx="70" cy="85" r="5" fill="#ff5f56"/>
   <circle cx="90" cy="85" r="5" fill="#ffbd2e"/>
   <circle cx="110" cy="85" r="5" fill="#27c93f"/>

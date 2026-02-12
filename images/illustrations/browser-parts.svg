@@ -5,7 +5,7 @@
   <rect x="50" y="50" width="600" height="400" fill="#E8E8E8" stroke="#333" stroke-width="3" rx="8"/>
 
   <!-- Window Top Bar -->
-  <rect x="50" y="50" width="600" height="40" fill="#444" rx="8 8 0 0"/>
+  <rect x="50" y="50" width="600" height="40" fill="#444" rx="8"/>
   <circle cx="70" cy="70" r="6" fill="#ff5f56"/>
   <circle cx="90" cy="70" r="6" fill="#ffbd2e"/>
   <circle cx="110" cy="70" r="6" fill="#27c93f"/>
@@ -35,10 +35,10 @@
   <text x="175" y="225" font-family="Arial, sans-serif" font-size="12" fill="#333" text-anchor="middle">Refresh</text>
 
   <!-- Tabs -->
-  <rect x="70" y="60" width="120" height="30" fill="#E95420" rx="5 5 0 0"/>
+  <rect x="70" y="60" width="120" height="30" fill="#E95420" rx="5"/>
   <text x="130" y="80" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff" text-anchor="middle">Tab 1</text>
 
-  <rect x="195" y="60" width="120" height="30" fill="#999" rx="5 5 0 0"/>
+  <rect x="195" y="60" width="120" height="30" fill="#999" rx="5"/>
   <text x="255" y="80" font-family="Arial, sans-serif" font-size="14" fill="#fff" text-anchor="middle">Tab 2</text>
 
   <text x="350" y="50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#E95420" text-anchor="middle">← Tabs</text>
