@@ -4,7 +4,7 @@ The Internet is one of the coolest things about having a computer. Let's learn h
 
 ## What Is the Internet?
 
-![Screenshot Placeholder: Diagram showing connected computers]
+![The Internet is millions of computers connected together](../images/illustrations/internet-network.svg)
 
 The **Internet** is millions of computers all connected together, sharing information. When you go to a website, your computer asks another computer (called a server) to send you a web page.
 
@@ -25,7 +25,7 @@ Think of it like a giant library where:
 
 ### Parts of Firefox
 
-![Screenshot Placeholder: Firefox with labeled parts]
+![Browser window showing the address bar, tabs, buttons, and content area](../images/illustrations/browser-parts.svg)
 
 **Address Bar:** Where you type web addresses (URLs)
 **Tabs:** Open multiple websites at once

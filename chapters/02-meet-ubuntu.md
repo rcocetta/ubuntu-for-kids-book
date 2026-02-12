@@ -58,6 +58,8 @@ Your computer organizes everything into **files** and **folders**, just like a r
 - A **file** is one thing: a picture, a document, a song
 - A **folder** holds multiple files (and other folders)
 
+![Files and folders work like a real filing cabinet](../images/illustrations/files-and-folders.svg)
+
 Let's open the Files app to explore:
 
 1. Click "Show Applications"

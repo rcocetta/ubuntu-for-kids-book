@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400">
+  <!-- Terminal Command Structure -->
+
+  <!-- Title -->
+  <text x="350" y="35" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#333" text-anchor="middle">How Terminal Commands Work</text>
+
+  <!-- Terminal Window -->
+  <rect x="50" y="70" width="600" height="280" fill="#300A24" stroke="#000" stroke-width="3" rx="8"/>
+
+  <!-- Terminal Top Bar -->
+  <rect x="50" y="70" width="600" height="30" fill="#2C001E" rx="8 8 0 0"/>
+  <circle cx="70" cy="85" r="5" fill="#ff5f56"/>
+  <circle cx="90" cy="85" r="5" fill="#ffbd2e"/>
+  <circle cx="110" cy="85" r="5" fill="#27c93f"/>
+
+  <!-- Prompt -->
+  <text x="70" y="140" font-family="Monaco, Courier New, monospace" font-size="18" fill="#8AE234">user@computer:~$</text>
+
+  <!-- Command Example -->
+  <text x="250" y="140" font-family="Monaco, Courier New, monospace" font-size="18" fill="#fff">ls</text>
+  <text x="290" y="140" font-family="Monaco, Courier New, monospace" font-size="18" fill="#fff">-la</text>
+  <text x="350" y="140" font-family="Monaco, Courier New, monospace" font-size="18" fill="#fff">Documents</text>
+
+  <!-- Output -->
+  <text x="70" y="180" font-family="Monaco, Courier New, monospace" font-size="14" fill="#8AE234">total 24</text>
+  <text x="70" y="205" font-family="Monaco, Courier New, monospace" font-size="14" fill="#fff">drwxr-xr-x  5 user user 4096 Feb 12 10:00 .</text>
+  <text x="70" y="230" font-family="Monaco, Courier New, monospace" font-size="14" fill="#fff">drwxr-xr-x 42 user user 4096 Feb 11 15:30 ..</text>
+  <text x="70" y="255" font-family="Monaco, Courier New, monospace" font-size="14" fill="#fff">-rw-r--r--  1 user user 1234 Feb 10 09:15 report.txt</text>
+
+  <!-- Next Prompt -->
+  <text x="70" y="300" font-family="Monaco, Courier New, monospace" font-size="18" fill="#8AE234">user@computer:~$</text>
+  <rect x="250" y="286" width="12" height="20" fill="#fff"/>
+
+  <!-- Labels with arrows -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#E95420"/>
+    </marker>
+  </defs>
+
+  <!-- Label arrows -->
+  <line x1="250" y1="160" x2="250" y2="148" stroke="#E95420" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="250" y="175" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#E95420" text-anchor="middle">Command</text>
+
+  <line x1="320" y1="160" x2="320" y2="148" stroke="#4A90E2" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="320" y="175" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4A90E2" text-anchor="middle">Options</text>
+
+  <line x1="410" y1="160" x2="410" y2="148" stroke="#77B300" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="410" y="175" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#77B300" text-anchor="middle">Argument</text>
+
+  <!-- Explanation text -->
+  <text x="350" y="375" font-family="Arial, sans-serif" font-size="14" fill="#666" text-anchor="middle">Type commands to control your computer!</text>
+
+</svg>

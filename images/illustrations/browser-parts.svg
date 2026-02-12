@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 500">
+  <!-- Browser Window Diagram -->
+
+  <!-- Browser Window -->
+  <rect x="50" y="50" width="600" height="400" fill="#E8E8E8" stroke="#333" stroke-width="3" rx="8"/>
+
+  <!-- Window Top Bar -->
+  <rect x="50" y="50" width="600" height="40" fill="#444" rx="8 8 0 0"/>
+  <circle cx="70" cy="70" r="6" fill="#ff5f56"/>
+  <circle cx="90" cy="70" r="6" fill="#ffbd2e"/>
+  <circle cx="110" cy="70" r="6" fill="#27c93f"/>
+
+  <!-- Address Bar -->
+  <rect x="70" y="110" width="560" height="45" fill="#fff" stroke="#333" stroke-width="2" rx="5"/>
+  <text x="85" y="138" font-family="Arial, sans-serif" font-size="16" fill="#666">https://www.example.com</text>
+
+  <!-- Address Bar Label -->
+  <text x="70" y="105" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#E95420">Address Bar</text>
+
+  <!-- Back/Forward Buttons -->
+  <circle cx="95" cy="190" r="18" fill="#4A90E2" stroke="#333" stroke-width="2"/>
+  <path d="M 100 190 L 90 190 L 95 185 M 90 190 L 95 195" stroke="#fff" stroke-width="3" fill="none"/>
+
+  <circle cx="135" cy="190" r="18" fill="#4A90E2" stroke="#333" stroke-width="2"/>
+  <path d="M 130 190 L 140 190 L 135 185 M 140 190 L 135 195" stroke="#fff" stroke-width="3" fill="none"/>
+
+  <!-- Button Labels -->
+  <text x="95" y="225" font-family="Arial, sans-serif" font-size="12" fill="#333" text-anchor="middle">Back</text>
+  <text x="135" y="225" font-family="Arial, sans-serif" font-size="12" fill="#333" text-anchor="middle">Forward</text>
+
+  <!-- Refresh Button -->
+  <circle cx="175" cy="190" r="18" fill="#77B300" stroke="#333" stroke-width="2"/>
+  <path d="M 175 182 A 8 8 0 1 1 175 198" stroke="#fff" stroke-width="3" fill="none"/>
+  <path d="M 175 182 L 175 177 L 180 182" stroke="#fff" stroke-width="2" fill="none"/>
+  <text x="175" y="225" font-family="Arial, sans-serif" font-size="12" fill="#333" text-anchor="middle">Refresh</text>
+
+  <!-- Tabs -->
+  <rect x="70" y="60" width="120" height="30" fill="#E95420" rx="5 5 0 0"/>
+  <text x="130" y="80" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff" text-anchor="middle">Tab 1</text>
+
+  <rect x="195" y="60" width="120" height="30" fill="#999" rx="5 5 0 0"/>
+  <text x="255" y="80" font-family="Arial, sans-serif" font-size="14" fill="#fff" text-anchor="middle">Tab 2</text>
+
+  <text x="350" y="50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#E95420" text-anchor="middle">← Tabs</text>
+
+  <!-- Web Page Content Area -->
+  <rect x="70" y="250" width="560" height="180" fill="#fff" stroke="#666" stroke-width="2"/>
+  <text x="350" y="280" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333" text-anchor="middle">Welcome to Example.com!</text>
+  <line x1="90" y1="300" x2="610" y2="300" stroke="#ddd" stroke-width="2"/>
+  <text x="100" y="330" font-family="Arial, sans-serif" font-size="14" fill="#666">This is where the website content appears.</text>
+  <text x="100" y="355" font-family="Arial, sans-serif" font-size="14" fill="#666">Text, images, videos, and buttons show here.</text>
+
+  <text x="630" y="340" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#E95420">← Content</text>
+
+  <!-- Bookmarks -->
+  <text x="250" y="172" font-family="Arial, sans-serif" font-size="13" fill="#E95420" font-weight="bold">← Bookmarks Bar (save favorite sites)</text>
+
+</svg>

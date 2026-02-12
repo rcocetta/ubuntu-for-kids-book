@@ -1,6 +1,10 @@
 # Ubuntu for Kids: Your Computer, Your Superpower
 
+![Ubuntu Logo](images/illustrations/ubuntu-logo.svg)
+
 A Creative Commons book teaching 9-year-olds how to use Ubuntu Linux.
+
+*Ubuntu and the Ubuntu logo are trademarks of Canonical Ltd.*
 
 ## About This Book
 
@@ -51,8 +55,19 @@ This is a community project. Contributions, translations, and improvements are w
 
 **Riccardo Cocetta** - Former Head of Engineering at Kano Computing, creating educational technology for children.
 
+## Creation & AI Transparency
+
+This book was created through a collaboration between human expertise and AI assistance:
+
+- **Human Design:** Riccardo Cocetta designed the teaching approach, structure, and philosophy based on research in child development and years of experience in educational technology
+- **AI Assistance:** Claude (by Anthropic) helped write the chapters, explanations, and activities under human direction and review
+- **Purpose:** To make quality Ubuntu education accessible to children worldwide
+
+We believe in transparency: readers should know when AI tools are used in content creation. What matters most is whether the book effectively teaches kids to use Ubuntu—that's our measure of success.
+
 ## Acknowledgments
 
-- Created with AI assistance (Claude by Anthropic)
-- Tested with real 9-year-olds
+- AI writing assistance provided by Claude (Anthropic)
+- Will be tested with real 9-year-olds for feedback and iteration
 - Based on research in child development and computer science education
+- Inspired by the open source community's commitment to free knowledge

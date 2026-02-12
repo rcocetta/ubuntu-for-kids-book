@@ -10,6 +10,8 @@ A computer is a machine that:
 
 That's it! Every computer, from your laptop to the biggest supercomputer in the world, does these four things.
 
+![How computers work: Input → Processing → Output, with Storage below](../images/illustrations/input-process-output.svg)
+
 ## The Brain: The CPU
 
 ![Screenshot Placeholder: Diagram of CPU]
@@ -139,6 +141,8 @@ Let's say you want to write a story:
 6. **Ubuntu** (the operating system) makes sure all this happens smoothly
 
 Every single thing you do on your computer follows this pattern: input, processing, output, storage.
+
+![A complete computer system with all its parts](../images/illustrations/computer-parts-simple.svg)
 
 ## What You Learned
 

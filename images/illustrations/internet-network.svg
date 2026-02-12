@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <!-- Internet Network Diagram for Kids -->
+
+  <!-- Title -->
+  <text x="400" y="35" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#333" text-anchor="middle">The Internet: Connected Computers</text>
+
+  <!-- Central Cloud (Internet) -->
+  <ellipse cx="400" cy="250" rx="120" ry="80" fill="#4A90E2" opacity="0.3" stroke="#4A90E2" stroke-width="4"/>
+  <text x="400" y="245" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333" text-anchor="middle">The</text>
+  <text x="400" y="270" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333" text-anchor="middle">Internet</text>
+
+  <!-- Your Computer (Top Left) -->
+  <rect x="80" y="80" width="100" height="70" fill="#E95420" stroke="#000" stroke-width="3" rx="8"/>
+  <text x="130" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">Your</text>
+  <text x="130" y="130" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">Computer</text>
+
+  <!-- Friend's Computer (Top Right) -->
+  <rect x="620" y="80" width="100" height="70" fill="#77B300" stroke="#000" stroke-width="3" rx="8"/>
+  <text x="670" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">Friend's</text>
+  <text x="670" y="130" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">Computer</text>
+
+  <!-- Server (Bottom Left) -->
+  <g transform="translate(80, 350)">
+    <rect x="0" y="0" width="100" height="80" fill="#666" stroke="#000" stroke-width="3" rx="5"/>
+    <rect x="10" y="10" width="80" height="15" fill="#333"/>
+    <rect x="10" y="30" width="80" height="15" fill="#333"/>
+    <rect x="10" y="50" width="80" height="15" fill="#333"/>
+    <text x="50" y="95" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333" text-anchor="middle">Web Server</text>
+  </g>
+
+  <!-- Another Server (Bottom Right) -->
+  <g transform="translate(620, 350)">
+    <rect x="0" y="0" width="100" height="80" fill="#666" stroke="#000" stroke-width="3" rx="5"/>
+    <rect x="10" y="10" width="80" height="15" fill="#333"/>
+    <rect x="10" y="30" width="80" height="15" fill="#333"/>
+    <rect x="10" y="50" width="80" height="15" fill="#333"/>
+    <text x="50" y="95" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333" text-anchor="middle">Email Server</text>
+  </g>
+
+  <!-- Connection Lines -->
+  <defs>
+    <marker id="arrowblue" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#4A90E2"/>
+    </marker>
+  </defs>
+
+  <!-- Lines connecting to Internet cloud -->
+  <line x1="180" y1="115" x2="300" y2="210" stroke="#4A90E2" stroke-width="3" marker-end="url(#arrowblue)"/>
+  <line x1="620" y1="115" x2="500" y2="210" stroke="#4A90E2" stroke-width="3" marker-end="url(#arrowblue)"/>
+  <line x1="180" y1="390" x2="300" y2="290" stroke="#4A90E2" stroke-width="3" marker-end="url(#arrowblue)"/>
+  <line x1="620" y1="390" x2="500" y2="290" stroke="#4A90E2" stroke-width="3" marker-end="url(#arrowblue)"/>
+
+  <!-- Info text -->
+  <text x="400" y="480" font-family="Arial, sans-serif" font-size="14" fill="#666" text-anchor="middle">Millions of computers all connected together!</text>
+
+</svg>

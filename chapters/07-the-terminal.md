@@ -44,6 +44,8 @@ Let's break it down:
 - `~` = Your home folder
 - `$` = Regular user (you'll see `#` if you're the super-user)
 
+![Terminal showing command structure: command, options, and arguments](../images/illustrations/terminal-command.svg)
+
 ## Your First Commands
 
 Let's start with fun, safe commands that make you feel like a wizard!

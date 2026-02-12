@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300">
+  <!-- Input-Process-Output-Storage Diagram -->
+
+  <!-- Input Box -->
+  <rect x="50" y="100" width="150" height="100" fill="#4A90E2" stroke="#000" stroke-width="3" rx="10"/>
+  <text x="125" y="140" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#fff" text-anchor="middle">INPUT</text>
+  <text x="125" y="170" font-family="Arial, sans-serif" font-size="14" fill="#fff" text-anchor="middle">Keyboard</text>
+  <text x="125" y="190" font-family="Arial, sans-serif" font-size="14" fill="#fff" text-anchor="middle">Mouse</text>
+
+  <!-- Arrow 1 -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#E95420"/>
+    </marker>
+  </defs>
+  <line x1="200" y1="150" x2="260" y2="150" stroke="#E95420" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <!-- Processing Box -->
+  <rect x="260" y="100" width="150" height="100" fill="#E95420" stroke="#000" stroke-width="3" rx="10"/>
+  <text x="335" y="140" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#fff" text-anchor="middle">PROCESS</text>
+  <text x="335" y="170" font-family="Arial, sans-serif" font-size="14" fill="#fff" text-anchor="middle">CPU thinks</text>
+  <text x="335" y="190" font-family="Arial, sans-serif" font-size="14" fill="#fff" text-anchor="middle">RAM holds</text>
+
+  <!-- Arrow 2 -->
+  <line x1="410" y1="150" x2="470" y2="150" stroke="#E95420" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <!-- Output Box -->
+  <rect x="470" y="100" width="150" height="100" fill="#77B300" stroke="#000" stroke-width="3" rx="10"/>
+  <text x="545" y="140" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#fff" text-anchor="middle">OUTPUT</text>
+  <text x="545" y="170" font-family="Arial, sans-serif" font-size="14" fill="#fff" text-anchor="middle">Screen</text>
+  <text x="545" y="190" font-family="Arial, sans-serif" font-size="14" fill="#fff" text-anchor="middle">Speakers</text>
+
+  <!-- Storage Box (below Processing) -->
+  <rect x="260" y="230" width="150" height="60" fill="#ADA661" stroke="#000" stroke-width="3" rx="10"/>
+  <text x="335" y="258" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#fff" text-anchor="middle">STORAGE</text>
+  <text x="335" y="280" font-family="Arial, sans-serif" font-size="13" fill="#fff" text-anchor="middle">Hard Drive</text>
+
+  <!-- Arrow from Processing to Storage -->
+  <line x1="335" y1="200" x2="335" y2="230" stroke="#ADA661" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#333" text-anchor="middle">How Computers Work</text>
+
+</svg>
