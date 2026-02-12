@@ -239,11 +239,16 @@ When you're done using your computer, click the power button 🔘 in the top-rig
 **Easy:** 🟢
 1. Create three new folders 📁 in Documents called "School" 📚, "Games" 🎮, and "Art" 🎨
 2. Find and open five different programs from the Applications menu (exploration time! 🔍)
+3. Practice using keyboard shortcuts ⌨️: Open Applications (Super key), then type to search! (Speed demon! ⚡)
 
 **Medium:** 🟡
 1. Open three programs at once (Calculator 🧮, Files 📂, and Text Editor 📝) - multitasking master! 🤹
 2. Practice minimizing 📦, maximizing 🔲, and arranging them (window Tetris! 🎮)
 3. Create a text file using Text Editor 📝 and save it in your Documents folder 💾
+4. **Settings Detective Time!** 🕵️ Open Settings and investigate:
+   - What's your CPU speed? (Settings > About > Processor 🧠)
+   - How much RAM do you have? (Settings > About > Memory 🗂️)
+   - What's your computer's name? (You can even change it if you want! 🏷️)
 
 **Hard:** 🔴
 1. Explore every folder in Files 📂 and see what's inside (digital archaeologist mode! 🏛️)
@@ -253,6 +258,11 @@ When you're done using your computer, click the power button 🔘 in the top-rig
    - What type it is 🎭
    - When it was created 📅
 3. Organize 5 files into appropriate folders 🗂️ (pictures in Pictures 📸, etc.) - you're a professional organizer now! ✨
+4. **Storage Detective Challenge!** 💾 Open the Disks app and investigate:
+   - Do you have an HDD or SSD? (Look for "SSD" in the name! Were you right from Chapter 1's prediction? 🎯)
+   - How much total space do you have? 📊
+   - How much space is left? 📉
+   - Look at your folders - which ones are taking up the most space? (Hint: Games 🎮 and Videos 🎬 are usually the biggest!)
 
 ---
 

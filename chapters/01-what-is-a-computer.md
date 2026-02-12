@@ -240,20 +240,21 @@ And ALL of this happens in the blink of an eye! Well, actually in the time it ta
 
 **Super Easy:** 🏠 Walk around your house and count how many computers you can find! (Remember: phones 📱, tablets, game consoles 🎮, smart TVs 📺, and even smart speakers 🔊 are computers!)
 
-**Easy:** 👀 Look at your computer right now and count all the input and output devices connected to it. How many do you have?
+**Easy:** 👀 Look at your computer right now and identify the parts:
+- Point to where you think the CPU is (hint: it's inside! 🧠)
+- What input devices can you see? (keyboard, mouse, camera? 🎤🖱️⌨️)
+- What output devices can you see? (screen, speakers? 🖥️🔊)
 
-**Medium:** 🕵️ Detective time! Use the Settings app to investigate:
-- What's your CPU speed? (Settings > About > Processor)
-- How much RAM do you have? (Settings > About > Memory)
-- What's your computer's name? (You can change it if you want!)
+**Medium:** 🎯 Concept Challenge! Answer these without looking back:
+- What's the difference between RAM and Storage? (Think: desk vs. backpack! 🗂️🎒)
+- Name three input devices and three output devices 📝
+- If your computer is slow, which part probably needs an upgrade: CPU, RAM, or Storage? (Trick question: it could be any of them! But explain why! 🤔)
 
-**Hard:** 💾 Open the Disks app and become a storage detective:
-- Do you have an HDD or SSD? (Look for "SSD" in the name!)
-- How much total space do you have?
-- How much space is left?
-- What folder or program is taking up the most space? (Hint: Games are usually big!)
+**Hard:** 🧠 Real-World Thinking Challenge:
+- You're playing a game 🎮 and it's super laggy. Walk through what each computer part might be doing at that moment: What's the CPU doing? What's in RAM? What's the storage doing? What about input and output?
+- Imagine you're a YouTube creator 🎬. Explain to someone how all four computer jobs (input, processing, output, storage) work together when you record and save a video!
 
-**Expert Challenge:** ⏱️ Time how long your computer takes to start up from when you press the power button to when you can click things. Then research online: Is that fast or slow for your type of computer? (SSDs should boot in under 30 seconds ⚡. HDDs might take a minute or more! 🐌)
+**Expert Challenge:** ⏱️ Time how long your computer takes to start up from when you press the power button to when you can click things. Predict: Do you think you have an SSD or HDD based on the speed? (SSDs boot in under 30 seconds ⚡. HDDs take a minute or more! 🐌) You'll find out for sure in Chapter 2!
 
 ---
 
