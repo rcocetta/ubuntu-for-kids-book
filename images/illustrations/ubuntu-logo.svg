@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120">
+  <!-- Ubuntu Logo Placeholder -->
+  <!-- This is a simplified placeholder. For the official logo, download from: -->
+  <!-- https://commons.wikimedia.org/wiki/File:Ubuntu_logo_copyleft_1.svg -->
+
+  <!-- Background -->
+  <rect width="400" height="120" fill="#E95420" rx="10"/>
+
+  <!-- "Circle of Friends" - simplified version -->
+  <circle cx="60" cy="60" r="12" fill="#fff"/>
+  <circle cx="90" cy="35" r="12" fill="#fff"/>
+  <circle cx="90" cy="85" r="12" fill="#fff"/>
+
+  <!-- Ubuntu text -->
+  <text x="130" y="75" font-family="Ubuntu, Arial, sans-serif" font-size="48" font-weight="300" fill="#fff">ubuntu</text>
+
+  <!-- Note text -->
+  <text x="200" y="110" font-family="Arial, sans-serif" font-size="10" fill="#fff" opacity="0.7" text-anchor="middle">(placeholder - see DOWNLOAD_UBUNTU_LOGO.md for official logo)</text>
+</svg>
