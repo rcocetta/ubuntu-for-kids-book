@@ -58,7 +58,9 @@ Is it 2.0 GHz? 3.5 GHz? Whatever it is, that number means "billions of things pe
 
 ## Short-Term Memory: RAM (Your Computer's Desk Space!) 🗂️
 
-![Screenshot Placeholder: RAM stick]
+![2GB DDR3 Desktop RAM memory stick](../images/screenshots/chapter01-ram-stick.png)
+
+<sub>*Photo from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2GB_DDR3_Desktop_RAM_1333Mhz.jpg#Licensing), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*</sub>
 
 **RAM** stands for Random Access Memory, but here's a MUCH better way to think about it:
 
