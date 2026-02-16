@@ -47,7 +47,7 @@ The speed of a CPU is measured in **gigahertz** (GHz). My computer has a 2.5 GHz
 
 Let's find out how fast YOUR CPU is:
 
-1. Click the Applications menu (those 9 dots at the bottom-left)
+1. Click the Applications menu (the Ubuntu logo at the bottom-left)
 2. Type "Settings" and open it
 3. Click "About" on the left
 4. Look for "Processor" - that's your CPU!
@@ -83,7 +83,7 @@ The more RAM you have, the bigger your desk is. With tons of RAM, you can have l
 
 Let's see how much RAM (desk space) your computer has:
 
-1. Click Applications (those 9 dots again)
+1. Click Applications (the Ubuntu logo again)
 2. Type "Settings" and open it
 3. Click "About"
 4. Look for "Memory" - that's your RAM!
@@ -142,7 +142,7 @@ Most new laptops use SSDs because they're SO much faster. It's the difference be
 
 Let's check what kind of storage you have and see how much space you're using:
 
-1. Click "Show Applications" (the 9 dots)
+1. Click "Show Applications" (the Ubuntu logo)
 2. Type "Disks" and open it
 3. You'll see your storage listed!
 

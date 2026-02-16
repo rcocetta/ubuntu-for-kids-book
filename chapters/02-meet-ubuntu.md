@@ -34,7 +34,7 @@ Click on different things in the top bar:
 
 ![Screenshot Placeholder: Applications menu open]
 
-Click the grid of 9 dots at the bottom-left (it might say "Show Applications"). This opens your **Applications Menu** - it's like a giant toy box 🧸 where all your programs live!
+Click the Ubuntu logo (the orange circle with three white dots) at the bottom-left - it might say "Show Applications" when you hover over it. This opens your **Applications Menu** - it's like a giant toy box 🧸 where all your programs live!
 
 You can:
 - Scroll through all the apps 📜
@@ -227,7 +227,7 @@ When you're done using your computer, click the power button 🔘 in the top-rig
 ## What You Learned 📝
 
 - The **desktop** 🖥️ is your home screen with the top bar, dock, and background
-- The **Applications menu** 📱 (9 dots) shows all your programs
+- The **Applications menu** 📱 (Ubuntu logo) shows all your programs
 - **Files and folders** 📂 organize everything on your computer (like a digital filing cabinet! 🗄️)
 - Ubuntu comes with lots of useful programs already installed 🎁
 - **Windows** 🪟 can be moved, resized, minimized, maximized, and closed
