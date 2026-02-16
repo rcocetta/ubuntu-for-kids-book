@@ -13,9 +13,9 @@ set -e
 
 # Configuration
 SCREENSHOT_DIR="../images/screenshots"
-DELAY_SHORT=1      # 1 second for quick actions
-DELAY_MEDIUM=2     # 2 seconds for app launches
-DELAY_LONG=3       # 3 seconds for complex operations
+DELAY_SHORT=3      # 1 second for quick actions
+DELAY_MEDIUM=6     # 2 seconds for app launches
+DELAY_LONG=9       # 3 seconds for complex operations
 
 # Colors for output
 GREEN='\033[0;32m'

@@ -13,11 +13,11 @@ Track your progress capturing all 51 screenshots for "Ubuntu for Kids"
 
 ## Progress Overview
 
-**Total**: 0 / 51 screenshots (0%)
+**Total**: 6 / 51 screenshots (12%)
 
 **By Chapter:**
 - Chapter 1: 0 / 5 (0%) - All manual/online
-- Chapter 2: 0 / 14 (0%)
+- Chapter 2: 6 / 14 (43%)
 - Chapter 3: 0 / 6 (0%)
 - Chapter 4: 0 / 12 (0%)
 - Chapter 5: 0 / 5 (0%)
@@ -46,14 +46,14 @@ Track your progress capturing all 51 screenshots for "Ubuntu for Kids"
 
 ## Chapter 2: Meet Ubuntu 🐧
 
-**Progress: 0 / 14 (0%)**
+**Progress: 6 / 14 (43%)**
 
-- ⬜ 🤖 `chapter02-clean-desktop.png` - Clean Ubuntu desktop, default wallpaper
-- ⬜ 🤖 `chapter02-applications-menu.png` - Applications menu open (9 dots clicked)
-- ⬜ 🤖 `chapter02-files-app.png` - Files app opened to Home directory
-- ⬜ 🤖 `chapter02-files-folders.png` - Files showing Documents, Downloads, etc.
-- ⬜ 🖐️ `chapter02-new-folder.png` - New Folder dialog (script pauses for this)
-- ⬜ 🤖 `chapter02-firefox.png` - Firefox opened to ubuntu.com
+- ✅ 🤖 `chapter02-clean-desktop.png` - Clean Ubuntu desktop, default wallpaper
+- ✅ 🤖 `chapter02-applications-menu.png` - Applications menu open (Ubuntu logo clicked)
+- ✅ 🤖 `chapter02-files-app.png` - Files app opened to Home directory
+- ✅ 🤖 `chapter02-files-folders.png` - Files showing Documents, Downloads, etc.
+- ✅ 🖐️ `chapter02-new-folder.png` - New Folder dialog (script pauses for this)
+- ✅ 🤖 `chapter02-firefox.png` - Firefox opened to ubuntu.com
 - ⬜ 🤖 `chapter02-libreoffice-writer.png` - Writer with blank document
 - ⬜ 🤖 `chapter02-rhythmbox.png` - Rhythmbox music player
 - ⬜ 🤖 `chapter02-videos.png` - Videos app (Totem)

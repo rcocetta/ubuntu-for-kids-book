@@ -116,6 +116,8 @@ We just used this! It helps you organize all your stuff 🗂️. Think of it as 
 - **Impress:** 🎤 For presentations (like PowerPoint - make slide shows!)
 - **Draw:** 🎨 For diagrams and flowcharts
 
+**📌 Note:** If LibreOffice isn't installed on your computer, don't worry! You'll learn how to install it in [Chapter 5: Installing Software](05-installing-software.md).
+
 We'll use these in Chapter 4 when we create things! 🚀
 
 ### Rhythmbox: Music Player 🎵🎧
