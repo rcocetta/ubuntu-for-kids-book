@@ -21,7 +21,9 @@ Let's meet the parts that make this happen!
 
 ## The Brain: The CPU (A.K.A. The Speed Demon!) 🧠⚡
 
-![Screenshot Placeholder: Diagram of CPU]
+![Intel Core i7 CPU processor chip](../images/screenshots/chapter01-cpu-diagram.png)
+
+<sub>*Photo by [Pstrahl](https://commons.wikimedia.org/w/index.php?curid=151972144), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*</sub>
 
 Inside your computer - right now, while you're reading this - there's a tiny chip about the size of a postage stamp 📮. It's called the **CPU** (Central Processing Unit), and it's basically your computer's brain 🧠. But here's the wild part: this "brain" can think BILLIONS of times per second!
 
@@ -94,7 +96,9 @@ Most computers have between 4 GB and 16 GB. That's gigabytes, which means billio
 
 ## Long-Term Memory: Storage (Your Computer's Backpack!) 🎒
 
-![Screenshot Placeholder: Hard drive or SSD]
+![Comparison of mSATA SSD and 2.5" SATA hard drive](../images/screenshots/chapter01-storage-drives.png)
+
+<sub>*Photo from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:MSATA_SSD_vs._2.5%22_SATA_drive.JPG), public domain*</sub>
 
 If RAM is your desk, then **storage** is your backpack 🎒. It's where you keep ALL your stuff when you're not using it:
 
@@ -152,7 +156,9 @@ Look at the name - if it says "SSD" anywhere, you've got the fast kind! If it do
 
 ## Input Devices: How YOU Talk to Your Computer 🎤
 
-![Screenshot Placeholder: Keyboard and mouse]
+![Wireless computer keyboard with mouse and USB receiver](../images/screenshots/chapter01-keyboard-mouse.png)
+
+<sub>*Photo from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wireless_computer_keyboard_with_mouse_an_USB_receiver.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)*</sub>
 
 Input devices are basically anything you use to tell your computer what to do. They're like your computer's ears 👂, eyes 👀, and sense of touch!
 
@@ -170,7 +176,9 @@ Input devices are basically anything you use to tell your computer what to do. T
 
 ## Output Devices: How Your Computer Talks Back 🔊
 
-![Screenshot Placeholder: Monitor and speakers]
+![Acer monitor with AIWA speakers](../images/screenshots/chapter01-monitor-speakers.png)
+
+<sub>*Photo from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Acer_AL1716_and_AIWA_speakers_20070526.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)*</sub>
 
 If input is how you talk to your computer, output is how your computer talks back to you! 💬
 

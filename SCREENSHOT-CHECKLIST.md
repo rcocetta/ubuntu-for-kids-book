@@ -13,10 +13,10 @@ Track your progress capturing all 51 screenshots for "Ubuntu for Kids"
 
 ## Progress Overview
 
-**Total**: 14 / 51 screenshots (27%)
+**Total**: 18 / 51 screenshots (35%)
 
 **By Chapter:**
-- Chapter 1: 0 / 5 (0%) - All manual/online
+- Chapter 1: 4 / 5 (80%) - Missing RAM image
 - Chapter 2: 14 / 14 (100%) ✅ COMPLETE!
 - Chapter 3: 0 / 6 (0%)
 - Chapter 4: 0 / 12 (0%)
@@ -29,13 +29,13 @@ Track your progress capturing all 51 screenshots for "Ubuntu for Kids"
 
 ## Chapter 1: What Is a Computer? 💻
 
-**Progress: 0 / 5 (0%)**
+**Progress: 4 / 5 (80%)**
 
-- ⬜ 📸 `chapter01-cpu-diagram.png` - CPU chip photo (find on Wikimedia Commons)
-- ⬜ 📸 `chapter01-ram-stick.png` - RAM memory stick photo
-- ⬜ 📸 `chapter01-storage-drives.png` - HDD vs SSD comparison photo
-- ⬜ 📸 `chapter01-keyboard-mouse.png` - Keyboard and mouse photo
-- ⬜ 📸 `chapter01-monitor-speakers.png` - Monitor with speakers photo
+- ✅ 📸 `chapter01-cpu-diagram.png` - CPU chip photo (Intel Core i7)
+- ⬜ 📸 `chapter01-ram-stick.png` - RAM memory stick photo **MISSING - needs to be added**
+- ✅ 📸 `chapter01-storage-drives.png` - HDD vs SSD comparison photo
+- ✅ 📸 `chapter01-keyboard-mouse.png` - Keyboard and mouse photo
+- ✅ 📸 `chapter01-monitor-speakers.png` - Monitor with speakers photo
 
 **Notes:**
 - All Chapter 1 screenshots are hardware photos
