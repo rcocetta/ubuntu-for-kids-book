@@ -57,7 +57,7 @@ Track your progress capturing all 51 screenshots for "Ubuntu for Kids"
 - ⬜ 🤖 `chapter02-libreoffice-writer.png` - Writer with blank document
 - ⬜ 🤖 `chapter02-rhythmbox.png` - Rhythmbox music player
 - ⬜ 🤖 `chapter02-videos.png` - Videos app (Totem)
-- ⬜ 🤖 `chapter02-photos.png` - Photos app
+- ⬜ 🤖 `chapter02-image-viewer.png` - Image Viewer app (eog)
 - ⬜ 🤖 `chapter02-text-editor.png` - Text Editor with blank document
 - ⬜ 🤖 `chapter02-settings.png` - Settings app (About section)
 - ⬜ 🖐️ `chapter02-window-controls.png` - Window with labeled controls (add annotations)

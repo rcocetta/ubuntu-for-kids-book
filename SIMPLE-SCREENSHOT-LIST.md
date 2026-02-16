@@ -21,7 +21,7 @@ Just take these screenshots. Press PrtSc (Print Screen) after each one. Files go
 7. LibreOffice Writer blank
 8. Rhythmbox
 9. Videos app
-10. Photos app
+10. Image Viewer app
 11. Text Editor
 12. Settings → About
 13. Any window (annotate with arrows later)

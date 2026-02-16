@@ -132,11 +132,11 @@ Play your music 🎶, organize songs into playlists 📝, and listen while you w
 
 Also called Totem, this is your video player for watching movies 🎥 and videos! Movie night, anyone? 🌙
 
-### GNOME Photos: View Your Pictures 📷✨
+### Image Viewer: View Your Pictures 📷✨
 
-![Screenshot Placeholder: Photos app]
+![Screenshot Placeholder: Image Viewer app]
 
-See all your photos in one place, organized by date 📅. It's like a digital photo album! 📖
+This is your photo viewer! Open any picture and zoom in 🔍, zoom out, or go through your photos one by one. Perfect for looking at your screenshots, photos, and artwork! 🎨
 
 ### Text Editor: Simple Writing 📝
 
