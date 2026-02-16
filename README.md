@@ -21,16 +21,20 @@ This book transforms the Ubuntu laptop from an ignored device into a superpower 
 
 ## Book Structure
 
-- **Introduction:** Why this book exists and what you'll learn
-- **Chapter 1:** What Is a Computer?
-- **Chapter 2:** Meet Ubuntu
-- **Chapter 3:** The Internet
-- **Chapter 4:** Creating Things
-- **Chapter 5:** Installing Software (Building Your Toolkit)
-- **Chapter 6:** Customizing Ubuntu
-- **Chapter 7:** The Terminal (Your Superpower)
-- **Chapter 8:** When Things Go Wrong
-- **Appendix:** Installing Ubuntu, Open Source explained, Glossary
+- **[Introduction](00-introduction.md):** Why this book exists and what you'll learn
+- **[Chapter 1: What Is a Computer?](chapters/01-what-is-a-computer.md)**
+- **[Chapter 2: Meet Ubuntu](chapters/02-meet-ubuntu.md)** ✅
+- **[Chapter 3: The Internet](chapters/03-the-internet.md)**
+- **[Chapter 4: Creating Things](chapters/04-creating-things.md)**
+- **[Chapter 5: Installing Software](chapters/05-installing-software.md)**
+- **[Chapter 6: Customizing Ubuntu](chapters/06-customizing-ubuntu.md)**
+- **[Chapter 7: The Terminal](chapters/07-the-terminal.md)**
+- **[Chapter 8: When Things Go Wrong](chapters/08-when-things-go-wrong.md)**
+- **[Appendix A: Installing Ubuntu](appendix/a-installing-ubuntu.md)**
+- **[Appendix B: What Is Open Source?](appendix/b-open-source.md)**
+- **[Glossary](appendix/glossary.md)**
+
+✅ = Screenshots complete
 
 ## License
 

@@ -108,7 +108,7 @@ We just used this! It helps you organize all your stuff 🗂️. Think of it as 
 
 ### LibreOffice: Creating Documents 📝✨
 
-![Screenshot Placeholder: LibreOffice Writer]
+![LibreOffice Writer with blank document ready for writing](../images/screenshots/chapter02-libreoffice-writer.png)
 
 **LibreOffice** is like Microsoft Office, but FREE! 💰 It has:
 - **Writer:** 📄 For writing documents (reports, stories, letters)
@@ -122,31 +122,31 @@ We'll use these in Chapter 4 when we create things! 🚀
 
 ### Rhythmbox: Music Player 🎵🎧
 
-![Screenshot Placeholder: Rhythmbox]
+![Rhythmbox music player interface](../images/screenshots/chapter02-rhythmbox.png)
 
 Play your music 🎶, organize songs into playlists 📝, and listen while you work! Perfect for jamming out to your favorite tunes! 🕺
 
 ### Videos: Watch Movies 🎬🍿
 
-![Screenshot Placeholder: Videos app]
+![Videos app (Totem) video player interface](../images/screenshots/chapter02-videos.png)
 
 Also called Totem, this is your video player for watching movies 🎥 and videos! Movie night, anyone? 🌙
 
 ### Image Viewer: View Your Pictures 📷✨
 
-![Screenshot Placeholder: Image Viewer app]
+![Image Viewer displaying a photo](../images/screenshots/chapter02-image-viewer.png)
 
 This is your photo viewer! Open any picture and zoom in 🔍, zoom out, or go through your photos one by one. Perfect for looking at your screenshots, photos, and artwork! 🎨
 
 ### Text Editor: Simple Writing 📝
 
-![Screenshot Placeholder: Text Editor]
+![Text Editor with clean, simple interface](../images/screenshots/chapter02-text-editor.png)
 
 Perfect for quick notes 📃 and simple text files. Great for jotting down ideas 💡 or making to-do lists! ✅
 
 ### Settings: Control Everything ⚙️🎛️
 
-![Screenshot Placeholder: Settings]
+![Settings app showing the About section with system information](../images/screenshots/chapter02-settings.png)
 
 This is control central! 🎮 The command center of your computer! You can change:
 - How your computer looks 🎨
@@ -189,7 +189,7 @@ Let's look at a file's properties (detective work time!):
 
 When you open a program, it appears in a **window**. Let's learn to control windows like a pro! 😎
 
-![Screenshot Placeholder: A window with labels for title bar, minimize, maximize, close]
+![Window showing title bar and control buttons (will be annotated with labels)](../images/screenshots/chapter02-window-controls.png)
 
 **Title Bar (Top):** 📌
 - Shows the program name 🏷️
@@ -216,7 +216,7 @@ Let's practice with windows (window ninja training! 🥷):
 
 ## The Power Menu: Shutting Down 🔌
 
-![Screenshot Placeholder: Power menu]
+![System menu dropdown showing power and settings options](../images/screenshots/chapter02-power-menu.png)
 
 When you're done using your computer, click the power button 🔘 in the top-right corner. You'll see options:
 
