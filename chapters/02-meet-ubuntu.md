@@ -4,7 +4,7 @@ Now that you know what a computer is, let's explore Ubuntu! 🎉 When you turn o
 
 ## Your Desktop: Home Base 🏠
 
-![Screenshot Placeholder: Clean Ubuntu desktop]
+![Clean Ubuntu desktop with default wallpaper and dock on the left](../images/screenshots/chapter02-clean-desktop.png)
 
 When Ubuntu starts up, you see your **desktop** 🖥️. This is like your computer's home base - your mission control center! 🎮 Let's look at what's on your screen:
 
@@ -32,7 +32,7 @@ Click on different things in the top bar:
 
 ## The Applications Menu: Finding Programs 📱
 
-![Screenshot Placeholder: Applications menu open]
+![Applications menu showing available programs in a grid](../images/screenshots/chapter02-applications-menu.png)
 
 Click the Ubuntu logo (the orange circle with three white dots) at the bottom-left - it might say "Show Applications" when you hover over it. This opens your **Applications Menu** - it's like a giant toy box 🧸 where all your programs live!
 
@@ -51,7 +51,7 @@ You can:
 
 ## Files and Folders: Where Your Stuff Lives 📂
 
-![Screenshot Placeholder: Files application]
+![Files application window showing the home directory](../images/screenshots/chapter02-files-app.png)
 
 Your computer organizes everything into **files** and **folders**, just like a real filing cabinet 🗄️:
 
@@ -65,7 +65,7 @@ Let's open the Files app to explore:
 1. Click "Show Applications"
 2. Click on "Files" (or type "files")
 
-![Screenshot Placeholder: Files app showing folders]
+![Files app displaying standard folders like Documents, Downloads, Music, Pictures, and Videos](../images/screenshots/chapter02-files-folders.png)
 
 You'll see several folders:
 
@@ -88,7 +88,7 @@ Let's create your first folder:
 5. Name it "My Cool Stuff" 😎
 6. Press Enter ⌨️
 
-![Screenshot Placeholder: Creating a new folder]
+![New Folder dialog box in the Files application](../images/screenshots/chapter02-new-folder.png)
 
 Congratulations! 🎉 You just made your first folder! You're officially a folder-making wizard! 🧙‍♂️
 
@@ -98,7 +98,7 @@ Ubuntu comes with lots of useful programs already installed! 🎁 It's like gett
 
 ### Firefox: Your Web Browser 🌍🔥
 
-![Screenshot Placeholder: Firefox icon and window]
+![Firefox web browser displaying a webpage](../images/screenshots/chapter02-firefox.png)
 
 **Firefox** 🦊 is how you browse the Internet! It's your magic portal 🌈 to the whole world wide web! We'll learn all about it in Chapter 3!
 
