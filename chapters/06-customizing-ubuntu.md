@@ -219,7 +219,7 @@ Got wireless headphones, a mouse, or a keyboard? Let's connect them!
 
 Your computer has a name! Let's see it and change it:
 
-1. Settings > About
+1. Settings > System > About
 2. Look for "Device Name"
 3. Click on it to change it
 
