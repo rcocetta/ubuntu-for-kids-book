@@ -13,12 +13,12 @@ Track your progress capturing all 51 screenshots for "Ubuntu for Kids"
 
 ## Progress Overview
 
-**Total**: 19 / 51 screenshots (37%)
+**Total**: 25 / 51 screenshots (49%)
 
 **By Chapter:**
 - Chapter 1: 5 / 5 (100%) ✅ COMPLETE!
 - Chapter 2: 14 / 14 (100%) ✅ COMPLETE!
-- Chapter 3: 0 / 6 (0%)
+- Chapter 3: 6 / 6 (100%) ✅ COMPLETE!
 - Chapter 4: 0 / 12 (0%)
 - Chapter 5: 0 / 5 (0%)
 - Chapter 6: 0 / 11 (0%)
@@ -73,14 +73,14 @@ Track your progress capturing all 51 screenshots for "Ubuntu for Kids"
 
 ## Chapter 3: The Internet 🌍
 
-**Progress: 0 / 6 (0%)**
+**Progress: 6 / 6 (100%)** ✅ COMPLETE!
 
-- ⬜ 🤖 `chapter03-firefox-window.png` - Firefox browser clean window
-- ⬜ 🤖 `chapter03-ubuntu-site.png` - Firefox with ubuntu.com loaded
-- ⬜ 🤖 `chapter03-duckduckgo.png` - Firefox with DuckDuckGo homepage
-- ⬜ 🤖 `chapter03-multiple-tabs.png` - Firefox with 3-4 tabs open
-- ⬜ 🤖 `chapter03-bookmarks.png` - Firefox bookmarks menu/toolbar
-- ⬜ 🤖 `chapter03-downloads-folder.png` - Files app showing Downloads folder
+- ✅ 🤖 `chapter03-firefox-window.png` - Firefox browser clean window
+- ✅ 🤖 `chapter03-ubuntu-site.png` - Firefox with ubuntu.com loaded
+- ✅ 🤖 `chapter03-duckduckgo.png` - Firefox with DuckDuckGo homepage
+- ✅ 🤖 `chapter03-multiple-tabs.png` - Firefox with 3-4 tabs open
+- ✅ 🤖 `chapter03-bookmarks.png` - Firefox bookmarks menu/toolbar
+- ✅ 🤖 `chapter03-downloads-folder.png` - Files app showing Downloads folder
 
 **Notes:**
 - Run: `./auto-screenshot.sh 3`

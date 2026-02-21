@@ -20,7 +20,7 @@ Pretty cool, right? 😎
 
 ## Meet Firefox: Your Web Browser 🦊🔥
 
-![Screenshot Placeholder: Firefox browser window]
+![Firefox browser window with address bar and navigation controls](../images/screenshots/chapter03-firefox-window.png)
 
 **Firefox** 🦊 is your web browser - your vehicle for cruising the Internet superhighway! 🛣️ It's the program that shows you websites and makes the Internet come alive on your screen! ✨
 
@@ -52,7 +52,7 @@ Let's visit your first website (adventure time! 🗺️):
 3. Press Enter ↩️
 4. WHOOSH! 💨 You're now on Ubuntu's official website! 🎉
 
-![Screenshot Placeholder: ubuntu.com loaded]
+![Firefox displaying the ubuntu.com homepage](../images/screenshots/chapter03-ubuntu-site.png)
 
 How fast was that?! You just sent a message across the Internet and got a website back in seconds! 🚀
 
@@ -91,7 +91,7 @@ You don't need to know every website's address! That would be impossible - there
 
 ### Using DuckDuckGo 🦆
 
-![Screenshot Placeholder: DuckDuckGo homepage]
+![DuckDuckGo privacy-focused search engine homepage](../images/screenshots/chapter03-duckduckgo.png)
 
 DuckDuckGo is a search engine that doesn't track what you search for (it respects your privacy! 🛡️). It's like having a friend who never tells your secrets! 🤐
 
@@ -120,7 +120,7 @@ Search for (the Internet has EVERYTHING! 🌟):
 
 ## Tabs: Multiple Websites at Once 📑
 
-![Screenshot Placeholder: Firefox with multiple tabs]
+![Firefox browser with multiple tabs open at the top](../images/screenshots/chapter03-multiple-tabs.png)
 
 **Tabs** let you have many websites open at the same time without cluttering your screen! 🎉 It's like having multiple books open on your desk 📚 - you can quickly switch between them without losing your place! Think of tabs as your Internet multitasking superpower! 💪
 
@@ -147,7 +147,7 @@ Search for (the Internet has EVERYTHING! 🌟):
 
 When you find a website you LOVE, **bookmark** it so you can find it again easily! 🎉 It's like putting a bookmark 📖 in your favorite chapter - but for the Internet! Think of it as building your own personal collection of awesome websites! ✨
 
-![Screenshot Placeholder: Bookmarks menu]
+![Firefox bookmarks menu showing saved websites](../images/screenshots/chapter03-bookmarks.png)
 
 **To bookmark a page:** 🔖
 1. While on the page you like 💖, click the menu (three lines) ☰
@@ -297,7 +297,7 @@ By default, files you download go to your **Downloads** folder! Think of it as y
 2. Click "Downloads" ⬇️ in the sidebar
 3. Your downloaded files are there! 🎉 (like opening presents!)
 
-![Screenshot Placeholder: Downloads folder]
+![Files app showing the Downloads folder with downloaded files](../images/screenshots/chapter03-downloads-folder.png)
 
 ## What You Learned 📝
 
