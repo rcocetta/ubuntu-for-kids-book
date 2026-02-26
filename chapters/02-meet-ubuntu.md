@@ -248,8 +248,8 @@ When you're done using your computer, click the power button 🔘 in the top-rig
 2. Practice minimizing 📦, maximizing 🔲, and arranging them (window Tetris! 🎮)
 3. Create a text file using Text Editor 📝 and save it in your Documents folder 💾
 4. **Settings Detective Time!** 🕵️ Open Settings and investigate:
-   - What's your CPU speed? (Settings > About > Processor 🧠)
-   - How much RAM do you have? (Settings > About > Memory 🗂️)
+   - What's your CPU speed? (Settings > System > About > Processor 🧠)
+   - How much RAM do you have? (Settings > System > About > Memory 🗂️)
    - What's your computer's name? (You can even change it if you want! 🏷️)
 
 **Hard:** 🔴
