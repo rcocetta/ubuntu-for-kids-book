@@ -16,7 +16,7 @@ Creators have WAY more fun than consumers! 🎉 Plus, when you make something am
 
 ## Writing: LibreOffice Writer 📝✍️
 
-![Screenshot Placeholder: LibreOffice Writer]
+![LibreOffice Writer blank document ready to use](../images/screenshots/chapter04-writer-start.png)
 
 **LibreOffice Writer** is like Microsoft Word, but FREE! 💰 You can write stories 📖, reports 📄, letters 💌, and more! It's your digital typewriter on steroids! 💪
 
@@ -28,7 +28,7 @@ Let's write something amazing! (Author mode activated! ✨):
 2. Type "writer" ⌨️ and open LibreOffice Writer
 3. Start typing! 🎯 (Your cursor is blinking - it's waiting for your brilliance!)
 
-![Screenshot Placeholder: Writer with some text]
+![LibreOffice Writer with sample text typed in](../images/screenshots/chapter04-writer-text.png)
 
 **Cool Things You Can Do:** 🎨 (Text transformation powers! 💫)
 
@@ -56,7 +56,7 @@ Make your title big and bold! 📣 Change some words to different colors! 🌈 A
 3. Give it a cool name 🏷️ (be creative!)
 4. Click Save ✅ (DONE!)
 
-![Screenshot Placeholder: Save dialog]
+![Save As dialog in LibreOffice Writer](../images/screenshots/chapter04-save-dialog.png)
 
 **Pro Tip:** 💡 Save often! Press `Ctrl + S` every few minutes so you don't lose your brilliant work! 🛡️ Think of it like this: saving is like putting your work in a safe 🔒 - do it all the time!
 
@@ -97,7 +97,7 @@ Ubuntu has several apps for creating art! 🖼️ Time to become a digital artis
 
 ### Drawing App (for Quick Sketches) ✏️
 
-![Screenshot Placeholder: Drawing app]
+![Drawing app open with a blank canvas and drawing tools](../images/screenshots/chapter04-drawing-app.png)
 
 1. Open "Show Applications" 📱
 2. Search for "Drawing" 🔍
@@ -132,7 +132,7 @@ GIMP is a POWERFUL image editor! 💪 It's like Photoshop but FREE! 💰 (Profes
 4. Use the text tool 📝 to add words (label it!)
 5. File > Export As 💾 to save your creation (preserve your art!)
 
-![Screenshot Placeholder: GIMP interface]
+![GIMP image editor interface with toolbox and canvas](../images/screenshots/chapter04-gimp.png)
 
 **Pro Tip:** 💡 GIMP can also edit photos! 📸 Photo magic powers! ✨ You can:
 - Remove red-eye 👁️❌ (no more demon eyes! 😈➡️😊)
@@ -142,7 +142,7 @@ GIMP is a POWERFUL image editor! 💪 It's like Photoshop but FREE! 💰 (Profes
 
 ## Making Videos: OpenShot 🎬🎥
 
-![Screenshot Placeholder: OpenShot video editor]
+![OpenShot video editor interface showing project panel and preview](../images/screenshots/chapter04-openshot.png)
 
 Want to make videos like YouTubers? 📺 **OpenShot** is a video editor that comes with Ubuntu! You're about to become a filmmaker! 🎥 Lights, camera, ACTION! 🎬
 
@@ -170,7 +170,7 @@ A video is made of (the secret ingredients! 🎭):
 4. Click Play ▶️ to watch (preview time!)
 5. File > Export Video 💾 to save (make it permanent!)
 
-![Screenshot Placeholder: OpenShot timeline]
+![OpenShot timeline with video clips arranged in order](../images/screenshots/chapter04-openshot-timeline.png)
 
 **Adding Cool Stuff:** ✨ (Level up your video! 🚀)
 
@@ -198,7 +198,7 @@ Make a 30-second video about your day (mini-movie time! 🎬):
 
 ## Recording Audio: Audacity 🎙️🎵
 
-![Screenshot Placeholder: Audacity interface]
+![Audacity audio editor with recording tracks and controls](../images/screenshots/chapter04-audacity.png)
 
 **Audacity** lets you record and edit audio! 🎧 Make podcasts 📻, record songs 🎤, or create sound effects! 🔊 You're about to become an audio producer! 🎵
 
@@ -222,7 +222,7 @@ Record yourself (audio adventure! 🎙️):
 
 ## Making Presentations: LibreOffice Impress 🎤📊
 
-![Screenshot Placeholder: LibreOffice Impress]
+![LibreOffice Impress presentation editor with blank slide](../images/screenshots/chapter04-impress.png)
 
 **Impress** is for making presentations (like PowerPoint)! 🎭 Perfect for school projects! It's like creating your own TV show! 📺 You're the presenter! 🌟
 
@@ -262,7 +262,7 @@ Include (checklist! ✅):
 
 ## Spreadsheets: LibreOffice Calc 📊🔢
 
-![Screenshot Placeholder: LibreOffice Calc]
+![LibreOffice Calc blank spreadsheet with rows and columns](../images/screenshots/chapter04-calc.png)
 
 **Calc** is for spreadsheets! 📈 It's like a super-powered calculator 🧮 that can organize data in rows and columns! Think of it as your digital organization superhero! 🦸
 
@@ -287,7 +287,7 @@ Include (checklist! ✅):
 4. In cell C1, type "Date" 📅
 5. Fill in your favorite games and high scores! ⭐ (Brag about your skills!)
 
-![Screenshot Placeholder: Simple spreadsheet example]
+![LibreOffice Calc with a simple game score tracker spreadsheet](../images/screenshots/chapter04-calc-example.png)
 
 **Cool Calc Trick - Automatic Math:** ✨ (Calculator magic! 🪄)
 
