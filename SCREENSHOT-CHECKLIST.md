@@ -12,14 +12,14 @@ Track your progress capturing all 51 screenshots for "Ubuntu for Kids"
 
 ## Progress Overview
 
-**Total**: 36 / 51 screenshots (71%)
+**Total**: 41 / 51 screenshots (80%)
 
 **By Chapter:**
 - Chapter 1: 5 / 5 (100%) ✅ COMPLETE!
 - Chapter 2: 14 / 14 (100%) ✅ COMPLETE!
 - Chapter 3: 6 / 6 (100%) ✅ COMPLETE!
 - Chapter 4: 11 / 12 (92%) ⏳ 1 remaining
-- Chapter 5: 0 / 5 (0%)
+- Chapter 5: 5 / 5 (100%) ✅ COMPLETE!
 - Chapter 6: 0 / 11 (0%)
 - Chapter 7: 0 / 5 (0%)
 - Chapter 8: 0 / 5 (0%)
@@ -95,11 +95,11 @@ Track your progress capturing all 51 screenshots for "Ubuntu for Kids"
 
 **Progress: 0 / 5 (0%)**
 
-- ⬜ 🖐️ `chapter05-software-center.png` - Ubuntu Software main page
-- ⬜ 🖐️ `chapter05-software-interface.png` - Software Center showing categories
-- ⬜ 🖐️ `chapter05-supertux-page.png` - SuperTux game page in Software
-- ⬜ 🖐️ `chapter05-installing.png` - Installation progress bar
-- ⬜ 🖐️ `chapter05-remove-button.png` - App page showing Remove button
+- ✅ 🖐️ `chapter05-software-center.png` - App Center icon in Applications menu
+- ✅ 🖐️ `chapter05-software-interface.png` - App Center open showing categories
+- ✅ 🖐️ `chapter05-supertux-page.png` - SuperTux page in App Center
+- ✅ 🖐️ `chapter05-installing.png` - Installation progress bar
+- ✅ 🖐️ `chapter05-remove-button.png` - App page showing Uninstall button
 
 ---
 
