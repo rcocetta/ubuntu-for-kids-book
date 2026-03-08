@@ -13,23 +13,25 @@ On most tablets 📱 and gaming consoles 🎮, someone else decides what apps yo
 
 This is REAL control! 🎮 This is YOUR computer doing what YOU want! 🌟 Not what a company tells you to do. Not limited by someone else's rules. YOUR COMPUTER, YOUR RULES! 👊
 
-## The Ubuntu Software Center 🏪✨
+## The App Center 🏪✨
 
-![Screenshot Placeholder: Ubuntu Software Center]
+![Ubuntu App Center icon in the Applications menu](../images/screenshots/chapter05-software-center.png)
 
-The **Ubuntu Software Center** is like an app store, but BETTER! 🌟 Everything is FREE! 💰 And there are THOUSANDS of programs! 🤯 It's like a candy store 🍬, but for software! (And it's all free candy! 🎁)
+The **App Center** is Ubuntu's built-in app store — like Google Play or the App Store, but EVERYTHING IS FREE! 💰 There are thousands of programs to choose from! 🤯 It's like a candy store 🍬, but for software! (And it's all free candy! 🎁)
 
-### Opening the Software Center 🔓
+**Quick note:** The App Center mainly installs **Snap** packages — a modern, self-contained format. For some programs, you'll use the **Terminal** instead (we'll cover that later in this chapter! 💻).
 
-1. Click "Show Applications" 📱
-2. Search for "Software" 🔍 or click the orange shopping bag icon 🛍️
-3. The Software Center opens! 🎉 (Welcome to software paradise!)
+### Opening the App Center 🔓
 
-![Screenshot Placeholder: Software Center interface]
+1. Click the Ubuntu logo to open Applications 📱
+2. Search for "App Center" 🔍 or look for the blue bag icon 🛍️
+3. The App Center opens! 🎉 (Welcome to software paradise!)
+
+![Ubuntu App Center open showing featured apps and categories](../images/screenshots/chapter05-software-interface.png)
 
 ### Finding Cool Software 🔍🎯
 
-The Software Center has categories (organized like a library! 📚):
+The App Center has categories (organized like a library! 📚):
 
 - **Audio & Video:** 🎵🎬 Music and video players, editors, recorders (multimedia magic!)
 - **Developer Tools:** 💻 For coding and programming (future developer!)
@@ -51,21 +53,21 @@ Let's install your first program! 🎉 We'll start with **SuperTux**, a fun Mari
 
 **Step-by-Step Installation:** 📋 (Follow along! You got this! 💪)
 
-1. Open the Ubuntu Software Center 🏪
+1. Open the App Center 🏪
 2. Click the search icon 🔍 (magnifying glass - detective mode!)
 3. Type "SuperTux" ⌨️ (here we go!)
 4. Click on SuperTux 🐧 when you find it (there it is!)
 
-![Screenshot Placeholder: SuperTux in Software Center]
+![SuperTux game page in the App Center with Install button](../images/screenshots/chapter05-supertux-page.png)
 
 5. Read the description 📖 - it's a fun platformer game! (sounds awesome! 🎮)
 6. Click "Install" 📥 (the magic button!)
 7. You'll need to enter the computer password 🔐 (ask your parent if you don't know it!)
 8. Wait for it to download and install ⏳ (patience! Good things take time! ⏰)
 
-![Screenshot Placeholder: Installation progress]
+![App Center showing installation progress bar for SuperTux](../images/screenshots/chapter05-installing.png)
 
-9. When it's done ✅, click "Launch" 🚀 to play! (GAME ON!)
+9. When it's done ✅, click "Open" 🚀 to play! (GAME ON!)
 10. Or find it later 📱 in your Applications menu (it'll be waiting for you!)
 
 **Congratulations!** 🎉🎊 You just installed your first program all by yourself! You're officially a software installer now! 🏆 How cool is that?!
@@ -172,6 +174,44 @@ Here are some programs kids LOVE! 💖 Try installing a few! (Software shopping 
 - Desktop email client 💻 (all your email in one place!)
 - Manage multiple email accounts 📬 (organization champion!)
 
+## Installing with the Terminal ⌨️💡
+
+Some programs aren't in the App Center but can be installed using the **Terminal** — Ubuntu's command line. It sounds scary but it's actually really simple! 😎
+
+### Opening the Terminal 🖥️
+
+1. Click the Ubuntu logo to open Applications 📱
+2. Search for "Terminal" 🔍
+3. Open it — you'll see a black window with a blinking cursor ▮
+
+### The Magic Install Command ✨
+
+Type this and press Enter (replace `program-name` with what you want):
+
+```
+sudo apt install program-name
+```
+
+- **`sudo`** means "do this as administrator" 👑
+- **`apt`** is Ubuntu's package manager 📦
+- **`install`** means... install! 🎯
+
+It will ask for your password 🔐, then download and install automatically. Easy! 🚀
+
+**For example**, to install Audacity (the audio editor from Chapter 4):
+
+```
+sudo apt install audacity
+```
+
+**Or the Sound Recorder app:**
+
+```
+sudo apt install gnome-sound-recorder
+```
+
+**Don't worry** — you don't need to memorise these. When a program tells you to use `apt install`, just copy and paste! 📋
+
 ## How to Choose What to Install
 
 With thousands of options, how do you decide? Ask yourself:
@@ -199,15 +239,14 @@ With thousands of options, how do you decide? Ask yourself:
 
 Installed something you don't like? No problem! 🙅 It's YOUR computer - you can change your mind! 💭
 
-**To remove (uninstall) software:** 🧹 (Clean sweep! ✨)
+**To uninstall software:** 🧹 (Clean sweep! ✨)
 
-1. Open the Software Center 🏪
-2. Click "Installed" 📋 at the top (see what you've got!)
-3. Find the program you want to remove 🔍 (there it is!)
-4. Click "Remove" ❌ (bye bye!)
-5. Confirm that you want to remove it ✅ (are you sure? Yes!)
+1. Open the App Center 🏪
+2. Search for the program by name 🔍 (find it again!)
+3. Click on it — instead of "Install" you'll see "Uninstall" ❌
+4. Click "Uninstall" and confirm ✅ (bye bye!)
 
-![Screenshot Placeholder: Remove button in Software Center]
+![App Center showing the Uninstall button for an installed app](../images/screenshots/chapter05-remove-button.png)
 
 **It's gone!** 💨 Poof! Like magic! 🪄 You can always install it again later if you change your mind! 🔄 (No commitment issues here!)
 
@@ -215,7 +254,7 @@ Installed something you don't like? No problem! 🙅 It's YOUR computer - you ca
 
 1. Install a small program 📥 (like Chess ♟️ or Solitaire 🃏)
 2. Try it out 🎮 (give it a test drive!)
-3. Practice removing it ❌ (uninstall practice!)
+3. Practice uninstalling it ❌ (uninstall practice!)
 4. Install it again if you liked it! ↩️ (no harm, no foul!)
 
 ## Building Your Personal Toolkit
@@ -257,7 +296,7 @@ Think about what you want to do with your computer, then:
 - Right-click in the Applications menu to make new groups
 
 **Update regularly:**
-- The Software Center will tell you when updates are available
+- The App Center will tell you when updates are available
 - Updates fix bugs and add features
 - Click "Update All" when you see the notification
 
@@ -275,13 +314,13 @@ Think about what you want to do with your computer, then:
 
 **Hey Kids!** If you want to install games, make sure to ask your parents first. Some families have rules about gaming, and that's okay. Show them what you want to install so they can decide if it's appropriate.
 
-**Hey Parents!** Ubuntu's Software Center is curated and safe. All the games mentioned in this chapter are age-appropriate, open-source, and free. That said, your child should still ask permission before installing anything.
+**Hey Parents!** Ubuntu's App Center is curated and safe. All the games mentioned in this chapter are age-appropriate, open-source, and free. That said, your child should still ask permission before installing anything.
 
 ## What You Learned 📝🎓
 
 You're officially a software installer now! 🏆 Here's your new knowledge:
 
-- The **Ubuntu Software Center** 🏪 has thousands of FREE programs! 💰 (endless possibilities!)
+- The **App Center** 🏪 has thousands of FREE programs! 💰 (endless possibilities!)
 - You can **search** 🔍 for software or browse by category 📚 (find anything!)
 - **Installing** 📥 is easy: find it, click Install, enter password, wait ⏰ (you got this!)
 - You can **remove** ❌ software you don't want anymore (total control!)
@@ -293,7 +332,7 @@ You're officially a software installer now! 🏆 Here's your new knowledge:
 **Easy:** 🟢 (Software Explorer level! 🧭)
 1. Install one game 🎮 and play it for 15 minutes (fun time!)
 2. Install one educational program 🎓 (learn something!)
-3. Browse three different categories 📚 in Software Center (window shopping!)
+3. Browse three different categories 📚 in the App Center (window shopping!)
 
 **Medium:** 🟡 (Software Ninja level! 🥋)
 1. Install 3 programs you've never tried 📦📦📦 (adventure time!)
