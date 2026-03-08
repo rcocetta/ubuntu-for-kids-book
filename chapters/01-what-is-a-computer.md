@@ -51,8 +51,9 @@ Let's find out how fast YOUR CPU is:
 
 1. Click the Applications menu (the Ubuntu logo at the bottom-left)
 2. Type "Settings" and open it
-3. Click "About" on the left
-4. Look for "Processor" - that's your CPU!
+3. Click "System" on the left
+4. Click "About"
+5. Look for "Processor" - that's your CPU!
 
 Is it 2.0 GHz? 3.5 GHz? Whatever it is, that number means "billions of things per second." Pretty cool, right?
 
@@ -89,8 +90,9 @@ Let's see how much RAM (desk space) your computer has:
 
 1. Click Applications (the Ubuntu logo again)
 2. Type "Settings" and open it
-3. Click "About"
-4. Look for "Memory" - that's your RAM!
+3. Click "System" on the left
+4. Click "About"
+5. Look for "Memory" - that's your RAM!
 
 Most computers have between 4 GB and 16 GB. That's gigabytes, which means billions of bytes. A byte is basically enough memory to store one letter. So 4 GB? That's enough to store about 4 BILLION letters! Or... like a million pages of text. Or... okay, you get the idea. It's a lot!
 
